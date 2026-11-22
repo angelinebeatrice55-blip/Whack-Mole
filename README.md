@@ -1,2 +1,2 @@
-# Whack-Mole
+# HerWatchlist
 GAMES
